@@ -15,7 +15,7 @@
 ## 🔬 What I'm working on
 
 One of my current focuses is the development of a robust, end-to-end pipeline for a **systematic equity strategy**.  
-This work integrates tools from **copula modeling**, **Bilateral Gamma distributions**, and **distributionally sensitive optimization**, and is based in part on papers co-authored with my PhD advisor, **Dilip Madan**.
+This work integrates tools from **copula modeling**, **Bilateral Gamma distributions**, and **distributionally sensitive optimization**.
 
 Repo: [**Systematic Equity Strategies**](https://github.com/yshirai999/Systematic-Equity-Strategies)  
 Non-technical article: [A Robust Systematic Equity Strategy](https://medium.com/@yshirai999/a-robust-systematic-equity-strategy-82a2c88144f4)
