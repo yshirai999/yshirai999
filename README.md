@@ -1,4 +1,4 @@
-# 👋 I am Yoshihiro Shirai — welcome to my GitHub profile
+# I am Yoshihiro Shirai — welcome to my GitHub profile!
 
 **Background**  
 - PhD in Applied Mathematics, MS in Financial Engineering, BSc in Economics
