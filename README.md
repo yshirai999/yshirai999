@@ -18,7 +18,7 @@ One of my current focuses is the development of a robust, end-to-end pipeline fo
 This work integrates tools from **copula modeling**, **Bilateral Gamma distributions**, and **distributionally sensitive optimization**.
 
 Repo: [**Systematic Equity Strategies**](https://github.com/yshirai999/Systematic-Equity-Strategies)  
-Non-technical article: [A Robust Systematic Equity Strategy]([https://medium.com/@yshirai999/a-robust-systematic-equity-strategy-82a2c88144f4](https://medium.com/@yoshihiroshirai/a-robust-systematic-equity-strategies-d26ea229bde0))
+Non-technical article: [A Robust Systematic Equity Strategy](https://medium.com/@yoshihiroshirai/a-robust-systematic-equity-strategies-d26ea229bde0)
 
 This strategy blends:
 - Economic intuition
