@@ -8,7 +8,7 @@
 **Links**  
 - [LinkedIn](https://www.linkedin.com/in/yoshihiro-shirai)
 - [Personal Website](https://yoshihiroshirai.com)
-- [Google Scholar](https://https://scholar.google.com/citations?user=WK4k61sAAAAJ&hl=en)
+- [Google Scholar](https://scholar.google.com/citations?user=WK4k61sAAAAJ&hl=en)
 
 ---
 
